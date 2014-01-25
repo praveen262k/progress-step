@@ -10,7 +10,9 @@ I improvised to pull the progress header alone and made it dynamic and standalon
 Usage
 =============
 
+//Initialize the component with the step labels
 progressStepsWidget.initialize("progressbar",
                 ["Authenticating", "Loading Profile", "Synchronizing", "Loading home screen"]);
 
+//Sets the animation to the first label
 progressStepsWidget.start();
