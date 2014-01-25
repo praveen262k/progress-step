@@ -30,3 +30,7 @@ progressStepsWidget.start();
 
 progressStepsWidget.moveNext();
 
+//If the current step has errored out
+progressStepsWidget.setError();
+
+
