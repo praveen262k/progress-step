@@ -11,8 +11,10 @@ Usage
 =============
 
 //Initialize the component with the step labels
+
 progressStepsWidget.initialize("progressbar",
                 ["Authenticating", "Loading Profile", "Synchronizing", "Loading home screen"]);
 
 //Sets the animation to the first label
+
 progressStepsWidget.start();
