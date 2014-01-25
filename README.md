@@ -7,6 +7,9 @@ CSS approach was borrowed from this site http://thecodeplayer.com/walkthrough/jq
 
 I improvised to pull the progress header alone and made it dynamic and standalone widget.
 
+![My image](http://praveen262k.github.io/resources/Screen Shot 2.png)
+![My image](http://praveen262k.github.io/resources/Screen%20Shot.png)
+
 Usage
 =============
 
