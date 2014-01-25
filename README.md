@@ -10,6 +10,10 @@ I improvised to pull the progress header out and made it dynamic and standalone 
 ![My image](http://praveen262k.github.io/resources/Screen Shot 2.png)
 ![My image](http://praveen262k.github.io/resources/Screen%20Shot.png)
 
+Working example
+=============
+http://praveen262k.github.io/progress-step/example.html
+
 Usage
 =============
 
