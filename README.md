@@ -25,3 +25,8 @@ progressStepsWidget.initialize("progressbar",
 //Sets the animation to the first label
 
 progressStepsWidget.start();
+
+//Move to next step
+
+progressStepsWidget.moveNext();
+
