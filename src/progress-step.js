@@ -1,4 +1,4 @@
-var progressSteps = (function(){
+var progressStepsWidget = (function(){
 var _placeHolderId;
 var _idx = 0;
 
