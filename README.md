@@ -5,7 +5,7 @@ When you page is like a wizard or if you screen is performing multiple steps bef
 
 CSS approach was borrowed from this site http://thecodeplayer.com/walkthrough/jquery-multi-step-form-with-progress-bar
 
-I improvised to pull the progress header alone and made it dynamic and standalone widget.
+I improvised to pull the progress header out and made it dynamic and standalone widget with nice little animations.
 
 ![My image](http://praveen262k.github.io/resources/Screen Shot 2.png)
 ![My image](http://praveen262k.github.io/resources/Screen%20Shot.png)
